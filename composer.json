@@ -11,6 +11,7 @@
     ],
     "license": "MIT",
     "require": {
+        "php": "^5.5 || ^7.0",
         "dominionenterprises/util" : "~1.0",
         "dominionenterprises/filter" : "~1.6.1",
         "chadicus/spl-types": "~0.1",
